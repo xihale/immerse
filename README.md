@@ -5,6 +5,12 @@
 - [ ] Finish the hint block(between the two btn on the main page)
 - [ ] Translate to more languages
 
+# Build & Deloy
+## Modify the router you want
+1. `src/index.tsx` > `basename`
+2. `vite.config.ts` > `base`
+If you deloy it in root, just turn the path to '/' or ''
+
 # To be contributors
 1. ALL source in `src` and assist base on you, just be comfortable(you can add `d.ts` then import what you want to use)
 2. The components in the `src/components`, if you have better design idea, take a issue or pr!
