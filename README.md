@@ -1,6 +1,4 @@
-<p align="center">
-![Build&Deploy](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
-</p>
+![Build&Deploy](https://github.com/xihale/immerse/actions/workflows/build-deploy.yml/badge.svg)
 
 # TODO
 - [ ] Finish music play(light music)
