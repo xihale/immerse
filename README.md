@@ -1,20 +1,25 @@
-# reference project
-[StudyWithMiku](https://github.com/WenqiOfficial/StudyWithMiku)
+<p align="center">
+![Build&Deploy](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+</p>
 
 # TODO
+- [ ] Finish music play(light music)
 - [ ] Finish the hint block(between the two btn on the main page)
 - [ ] Translate to more languages
 
-# Build & Deloy
+# Build & Deploy
 ## Modify the router you want
 1. `src/index.tsx` > `basename`
 2. `vite.config.ts` > `base`
-If you deloy it in root, just turn the path to '/' or ''
+If you deploy it in root, just turn the path to '/' or ''
 
 # To be contributors
 1. ALL source in `src` and assist base on you, just be comfortable(you can add `d.ts` then import what you want to use)
 2. The components in the `src/components`, if you have better design idea, take a issue or pr!
 3. `i18n` is in `src/i18n`, just add your lang and add some words refer ahead in the `translations.json`.
+
+# reference project
+[StudyWithMiku](https://github.com/WenqiOfficial/StudyWithMiku)
 
 # Thanks
 ## Dependence (It's will keep the latest, please find these in package.json)
