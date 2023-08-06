@@ -1,0 +1,23 @@
+{
+  "en": {
+    "translation": {
+      "fullscreen": "Fullscreen",
+      "rest": "Rest",
+      "studyTime": "Study time: {{min}} minutes {{sec}} seconds",
+      "music": "music",
+      "about": "about",
+      "clear": "clear"
+    }
+  },
+  "zh-CN": {
+    "translation": {
+      "fullscreen": "全屏",
+      "rest": "休息",
+      "studyTime": "已经学习 {{min}} 分钟 {{sec}} 秒啦！",
+      "music": "音乐",
+      "about": "关于",
+      "Title": "immerse",
+      "clear": "清除"
+      }
+    }
+}
